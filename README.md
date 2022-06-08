@@ -1,7 +1,7 @@
 ### Hi there, I'm Gustavo 👋
 ### or if you prefer, Developer Gusta 😁
 
-- 💻I am an Full-Stack dev, enthusiast and passionate about coding with C# and Javascript💻
+- 💻I am an Full-Stack dev, enthusiast and passionate about coding with C# and Typescript💻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developergusta&hide=TeX&layout=compact)
 
 
