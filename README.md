@@ -2,7 +2,6 @@
 ### or if you prefer, Developer Gusta 😁
 
 - 💻I am an Full-Stack dev, enthusiast and passionate about coding with C# and Javascript💻
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=developergusta&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developergusta&hide=TeX&layout=compact)
 
 
